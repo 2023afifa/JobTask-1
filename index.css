@@ -1,0 +1,118 @@
+    body {
+        font-family: "Cambay", sans-serif;
+    }
+
+    .full-ui {
+        display: flex;
+        gap: 30px;
+    }
+
+    .sidebar-subtitle {
+        font-size: 15px;
+        margin: 0;
+
+    }
+
+    .sidebar-title {
+        font-size: 25px;
+        font-weight: 700;
+        margin: 0;
+
+    }
+
+    .img {
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+        margin-right: 10px;
+    }
+
+    .title-img {
+        display: flex;
+    }
+
+    .img-profile {
+        width: 30px;
+        height: 30px;
+        border-radius: 9999px;
+    }
+
+    .title-bar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .sidebar-left {
+        width: 20%;
+        padding: 20px;
+        border: 1px solid gray;
+        border-radius: 20px;
+    }
+
+    .products {
+        font-size: 25px;
+        font-weight: 700;
+        padding: 20px;
+        border: 1px solid gray;
+        border-radius: 20px;
+        margin: 0;
+    }
+
+    .design-team {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        line-height: 5px;
+        /* border: 1px solid black; */
+    }
+
+    .design {
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .x1 {
+        font-size: 15px;
+        border: 1px solid gainsboro;
+        border-radius: 5px;
+        padding: 5px;
+    }
+
+    .create-team {
+        font-size: 20px;
+        line-height: 10px;
+        color: slategray;
+    }
+
+
+
+
+
+
+
+
+    /* .cambay-regular {
+        font-family: "Cambay", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .cambay-bold {
+        font-family: "Cambay", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .cambay-regular-italic {
+        font-family: "Cambay", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .cambay-bold-italic {
+        font-family: "Cambay", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+    } */
